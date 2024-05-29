@@ -1,0 +1,15 @@
+/*
+  =require twitter-bootstrap-static/bootstrap
+
+  Static version of css will use Glyphicons sprites by default
+  =require twitter-bootstrap-static/sprites
+*/
+
+.copy {
+  margin-top: 5rem;
+}
+
+.ul-horizontal {
+  margin-bottom: 2rem;
+  margin-left: 9.5rem;
+}
